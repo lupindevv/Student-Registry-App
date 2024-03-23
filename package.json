@@ -11,6 +11,6 @@
   "scripts": {
     "test": "mocha tests/*.js",
     "start": "node index.js",
-    "security": "npm audit"
+    "securitytest": "npm audit"
   }
 }
